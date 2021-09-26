@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_POCO\bin\Debug\Komodo_POCO.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_POCO\bin\Debug\Komodo_POCO.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_POCO\obj\Debug\Komodo_POCO.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_POCO\obj\Debug\Komodo_POCO.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_POCO\obj\Debug\Komodo_POCO.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_POCO\obj\Debug\Komodo_POCO.pdb

@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\bin\Debug\Komodo_UI.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\bin\Debug\Komodo_UI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\bin\Debug\Komodo_POCO.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\bin\Debug\Komodo_POCO.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\obj\Debug\Komodo_Repo.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\obj\Debug\Komodo_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\obj\Debug\Komodo_Repo.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\obj\Debug\Komodo_UI.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoProject\Komodo_UI\obj\Debug\Komodo_UI.pdb
